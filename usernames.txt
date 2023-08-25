@@ -1,0 +1,9 @@
+root
+admin
+test
+administrator
+Admin
+Administrator
+ftp
+smtp
+ssh
